@@ -22,6 +22,7 @@
 | :-------------------------------------------------------------- |
 | O funcionário deve aparecer corretamente listado no módulo PIM. |
 
+Teste passou com sucesso https://jam.dev/c/e235cae8-fad9-4e81-aca4-ec518fd46181
 ---
 
 ### Caso de Teste 02: Tentar adicionar funcionário sem preencher campos obrigatórios.
@@ -45,6 +46,7 @@
 | :-------------------------------------------------------------- |
 | Os campos obrigatórios devem exibir mensagens de validação.     |
 
+Teste passou com sucesso https://jam.dev/c/0bf82a00-b6d7-4d6a-9480-925af1b5a55e
 ---
 
 ### Caso de Teste 03: Pesquisar funcionário já cadastrado.
@@ -67,3 +69,5 @@
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | O funcionário correspondente deve ser listado corretamente.     |
+
+teste passou com sucesso  https://jam.dev/c/903fdfac-07b1-4576-a9b3-eb6d49e5407c
