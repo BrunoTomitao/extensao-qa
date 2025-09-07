@@ -23,6 +23,7 @@
 | :-------------------------------------------------------------- |
 | A solicitação deve aparecer listada em \"My Leave\".            |
 
+Teste Aprovado - falha esperado conforme relatorio de BUGS https://jam.dev/c/a487c267-0d6f-47b8-bbc3-13d9dd31c570
 ---
 
 ### Caso de Teste 02: Tentativa de solicitar férias sem selecionar tipo de licença.
@@ -47,6 +48,7 @@
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | A aplicação deve ser bloqueada e o erro deve ser exibido ao usuário. |
+
 
 ---
 
