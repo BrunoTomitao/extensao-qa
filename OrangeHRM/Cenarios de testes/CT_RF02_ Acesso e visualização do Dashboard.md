@@ -69,3 +69,5 @@ https://jam.dev/c/173c363e-39b9-49c0-9e79-98db10dca037
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | A sessão expirada deve ser tratada corretamente com redirecionamento. |
+
+Teste passou com sucesso https://jam.dev/c/2721977f-4d60-471d-ad83-70f7a3651d0f
