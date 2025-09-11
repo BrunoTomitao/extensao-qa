@@ -22,6 +22,9 @@
 | :-------------------------------------------------------------- |
 | O usuário cadastrado deve aparecer na lista de usuários ativos. |
 
+Teste aprovado e homologado
+https://jam.dev/c/bf374d20-07cf-4f5c-8776-686fb6032d7c
+
 ---
 
 ### Caso de Teste 02: Tentativa de adicionar usuário com nome de usuário já existente.
@@ -46,6 +49,8 @@
 | :-------------------------------------------------------------- |
 | O sistema deve impedir o cadastro e exibir mensagem de duplicidade. |
 
+Teste aprovado e homologado https://jam.dev/c/d17a810f-8679-4da7-81b2-75993025b826
+
 ---
 
 ### Caso de Teste 03: Filtrar usuários por status "Enabled".
@@ -68,3 +73,6 @@
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | A lista deve conter apenas usuários com status "Enabled".       |
+
+
+teste aprovado e homologado https://jam.dev/c/74e41a76-9888-41cd-9571-fa6174798fd6
