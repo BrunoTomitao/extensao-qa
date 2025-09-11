@@ -21,7 +21,7 @@
 | :-------------------------------------------------------------- |
 | O sistema deve confirmar o registro com uma mensagem e salvar o horário. |
 
----
+--- teste aprovado e homologado https://jam.dev/c/dd377b4f-dda2-41cf-b300-e3b767c2411e
 
 ### Caso de Teste 02: Tentar marcar ponto sem horário permitido ou fora do expediente.
 
@@ -43,6 +43,7 @@
 | :-------------------------------------------------------------- |
 | O sistema deve impedir o registro e apresentar mensagem adequada. |
 
+teste aprovado e homologado https://jam.dev/c/abe5a49b-2d45-47d8-b4d7-367d760a3103
 ---
 
 ### Caso de Teste 03: Consultar registro de ponto anterior.
@@ -64,3 +65,5 @@
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | O sistema deve exibir corretamente os registros existentes da data informada. |
+
+teste aprovado e homologado https://jam.dev/c/54a61366-58e6-4d1c-841b-1ffec713308b
