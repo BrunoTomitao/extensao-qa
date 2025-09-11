@@ -49,7 +49,7 @@ Teste Aprovado - falha esperado conforme relatorio de BUGS https://jam.dev/c/a48
 | :-------------------------------------------------------------- |
 | A aplicação deve ser bloqueada e o erro deve ser exibido ao usuário. |
 
-
+Teste passou com sucesso  https://jam.dev/c/1758ffd8-7f3a-4d81-af90-21370659b6c4
 ---
 
 ### Caso de Teste 03: Visualizar status das solicitações de férias.
@@ -71,3 +71,5 @@ Teste Aprovado - falha esperado conforme relatorio de BUGS https://jam.dev/c/a48
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | Os status devem refletir corretamente o estado da solicitação.  |
+
+teste passou com sucesso https://jam.dev/c/ef395fd3-2f76-4452-9f0f-8c391748d08b
