@@ -21,6 +21,8 @@
 | :-------------------------------------------------------------- |
 | O relatório deve apresentar os dados corretos conforme os filtros aplicados. |
 
+teste aprovado e homologado  https://jam.dev/c/928ecb83-d62f-4347-bb29-3a7a3101cbc9
+
 ---
 
 ### Caso de Teste 02: Gerar relatório sem selecionar filtros obrigatórios.
