@@ -46,6 +46,7 @@ teste aprovado e homologado  https://jam.dev/c/928ecb83-d62f-4347-bb29-3a7a3101c
 | :-------------------------------------------------------------- |
 | O sistema deve bloquear a geração do relatório e exibir erro claro. |
 
+teste reprovado, https://jam.dev/c/9d74398f-0b6b-41f0-a70d-6b2e507c1fec
 ---
 
 ### Caso de Teste 03: Exportar relatório gerado em PDF.
@@ -67,3 +68,5 @@ teste aprovado e homologado  https://jam.dev/c/928ecb83-d62f-4347-bb29-3a7a3101c
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | O download do arquivo PDF deve ocorrer com os dados exibidos na tela. |
+
+teste reprovado, não há botão de exportar para pdf https://jam.dev/c/67923f38-cb07-42d8-b442-a0229d98533c
