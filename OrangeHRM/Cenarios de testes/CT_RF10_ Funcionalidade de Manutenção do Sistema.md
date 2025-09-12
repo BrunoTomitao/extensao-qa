@@ -21,6 +21,8 @@
 | :-------------------------------------------------------------- |
 | O sistema deve exibir uma mensagem clara de manutenção e bloquear o acesso às funcionalidades. |
 
+ Evidência de Erro Funcionalidade de manutenção inexistente, https://jam.dev/c/355b0880-dcc1-4115-b580-28b6fb78d12b
+
 ---
 
 ### Caso de Teste 02: Acessar o sistema após término da manutenção.
@@ -44,6 +46,8 @@
 | :-------------------------------------------------------------- |
 | O usuário deve ser capaz de acessar o sistema normalmente.      |
 
+ Evidência de Erro Funcionalidade de manutenção inexistente, https://jam.dev/c/355b0880-dcc1-4115-b580-28b6fb78d12b
+
 ---
 
 ### Caso de Teste 03: Exibir status de manutenção em caso de falha inesperada.
@@ -66,3 +70,5 @@
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | O sistema deve exibir uma mensagem clara de falha e manutenção, informando que o sistema está indisponível. |
+
+ Evidência de Erro Funcionalidade de manutenção inexistente, https://jam.dev/c/355b0880-dcc1-4115-b580-28b6fb78d12b
